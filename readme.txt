@@ -19,6 +19,12 @@ Add an action button to images in the media library. Easily use any image as you
 3. Find the "Use as Background" link next to the "Edit" and "Delete Permanently" links in the Media Library
 4. After clicking that, you'll have the opportunity to change the background position and color options
 
+== Frequently Asked Questions ==
+
+= Where's the "Use as Background" link? =
+
+First, your theme must support custom backgrounds. If it does, you'll see the link next to the "Edit" and "Delete Permanently" links in the Media Library.
+
 == Screenshots ==
 
 1. The magic button
