@@ -12,6 +12,8 @@ Add an action button to images in the media library. Easily use any image as you
 
 Add an action button to images in the media library. Easily use any image as your custom background.
 
+**Custom backgrounds must be enabled on the active theme**
+
 == Installation ==
 
 1. Upload the contents of the zip file to the your plugins directory (default: `/wp-content/plugins/`)
