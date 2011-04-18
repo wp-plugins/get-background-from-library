@@ -1,0 +1,37 @@
+# Translation of the WordPress plugin Custom Background From Media Library 1.0 by Kailey Lampert.
+# Copyright (C) 2010 Kailey Lampert
+# This file is distributed under the same license as the Custom Background From Media Library package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Background From Media Library 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/get-background-from-library\n"
+"POT-Creation-Date: 2010-11-19 17:59+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: get-background-from-library.php:26
+msgid "Use as Background"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Background From Media Library"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Grab an image from the Media Library to use a your custom background."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kailey Lampert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kaileylampert.com"
+msgstr ""
