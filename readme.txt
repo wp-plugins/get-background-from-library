@@ -33,5 +33,9 @@ First, your theme must support custom backgrounds. If it does, you'll see the li
 
 == Changelog ==
 
+= 1.1 =
+* code optimization
+* displays notice if current theme doesn't support custom backgrounds
+
 = 1.0 =
 * Initial Release
