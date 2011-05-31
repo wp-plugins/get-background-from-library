@@ -3,7 +3,7 @@ Contributors: trepmal
 Donate link: http://kaileylampert.com/donate/
 Tags: custom-background, background, media library
 Requires at least: 3.0
-Tested up to: 3.0.1
+Tested up to: 3.2-beta2
 Stable tag: trunk
 
 Add an action button to images in the media library. Easily use any image as your custom background 

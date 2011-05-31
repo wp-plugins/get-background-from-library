@@ -1,11 +1,27 @@
 <?php
 /*
 Plugin Name: Custom Background From Media Library
-Plugin URI: 
+Plugin URI: http://trepmal.com/plugins/get-background-from-library/
 Description: Grab an image from the Media Library to use a your custom background.
 Version: 1.2
 Author: Kailey Lampert
 Author URI: http://kaileylampert.com
+*/
+/*
+    Copyright (C) 2010  Kailey Lampert
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 $bgfromlibrary = new bgfromlibrary();
