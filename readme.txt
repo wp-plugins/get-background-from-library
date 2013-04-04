@@ -1,14 +1,16 @@
 === Get Background From Library ===
-Contributors: trepmal 
+Contributors: trepmal
 Donate link: http://kaileylampert.com/donate/
 Tags: custom-background, background, media library
 Requires at least: 3.0
 Tested up to: 3.2-beta2
 Stable tag: trunk
 
-Add an action button to images in the media library. Easily use any image as your custom background 
+(No longer in development.) Add an action button to images in the media library. Easily use any image as your custom background
 
 == Description ==
+
+The ability to select an image from the media library as the background is baked right into core now. This plugin will no longer be developed.
 
 Add an action button to images in the media library. Easily use any image as your custom background.
 
@@ -31,7 +33,14 @@ First, your theme must support custom backgrounds. If it does, you'll see the li
 
 1. The magic button
 
+== Upgrade Notice ==
+= 1.3 =
+Final update. Notice of stopped development.
+
 == Changelog ==
+
+= 1.3 =
+* No functional change. Notice of stopped development
 
 = 1.1 =
 * code optimization
